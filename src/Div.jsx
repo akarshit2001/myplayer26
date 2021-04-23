@@ -13,7 +13,7 @@ function Div(props){
   
  
   <br></br>
-  <button >Click here dude!</button>
+  <button >click to watch!</button>
   </a>
   
   

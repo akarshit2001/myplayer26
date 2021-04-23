@@ -101,49 +101,120 @@ const music = [
 }
 ,
 {
-    imgs :"./img/de.jpg",
-    para : "Demi levato ",
-     link :"https://www.youtube.com/watch?v=0xpb0N5pk4w"
+    imgs :"https://i.pinimg.com/originals/a4/0c/88/a40c885543131afd31397190c8202c5c.jpg",
+    para : " Échame La Culpa (Blame Me) ",
+     link :"https://www.youtube.com/watch?v=TyHvyGVs42U"
 
 }
 
 ]
 
+const Artist = [
+    {
+        imgs:"https://static.toiimg.com/photo/81450030.cms",
+        para:"Shreya Goshal",
+        link:"https://www.youtube.com/watch?v=inEu2qQuGZ8&list=PLjity7Lwv-zpvKfCuj9Rc8ZpFSl-NZxHB"
+    },
+    {
+        imgs:"https://www.bollywoodhungama.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-12-at-1.06.08-PM.jpeg",
+        para:"Arijit Singh",
+        link:"https://www.youtube.com/results?search_query=arijit+singh+playlist"
+    },
+    {
+        imgs:"https://www.adgully.com/img/800/595_sunidhichauhan.jpg",
+        para:"Sunidhi Chauhan",
+        link:"https://www.youtube.com/results?search_query=sunidhi+chauhan+playlist"
+
+    },
+    {
+        imgs:"https://www.dailypioneer.com/uploads/2018/story/images/big/nostalgic-to-sing-for--homeground--mayur-vihar--kailash-kher-2018-12-14.jpg",
+        para:"Kailash Kher",
+        link:"https://www.youtube.com/results?search_query=kailash+kher+playlist"
+
+    },
+    {
+        imgs:"https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/07/01/Pictures/_1092b492-3f49-11e6-aebc-a22ff8d772df.jpg",
+        para:"KK",
+        link:"https://www.youtube.com/results?search_query=kK+playlist"
+
+    },
+    {
+        imgs:"http://www.radioandmusic.com/sites/www.radioandmusic.com/files/images/entertainment/2016/08/05/Neeti7.jpg",
+        para:"Neeti Mohan",
+        link:"https://www.youtube.com/results?search_query=neeti+mohan+playlist"
+
+    },
+    {
+        imgs:"https://www.cheatsheet.com/wp-content/uploads/2017/04/selena-gomez-performing-2016-1024x720.jpg",
+        para:"Selena Gomez",
+        link:"https://www.youtube.com/results?search_query=selena+gomez+playlist"
+
+    },
+    {
+        imgs:"https://www.fluentu.com/blog/spanish/wp-content/uploads/sites/2/2015/05/learn-spanish-with-shakira1.jpg",
+        para:"Shakira",
+        link:"https://www.youtube.com/results?search_query=shakia+playlist"
+
+    },
+    {
+        imgs:"https://i.pinimg.com/originals/d2/29/8d/d2298d3eaadd15d3800bbd14f605e5a9.jpg",
+        para:"Alan Walker",
+        link:"https://www.youtube.com/results?search_query=alan+walker+songs"
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
 const actor= [
     {
-        imgs :"./img/srk.jpg",
-        para : "Shahrukh Khan",
+        imgs :"https://i.pinimg.com/originals/54/7a/7f/547a7f9693b6ab79efcd963d2d760fcf.png",
+        para : "Doremon",
+        link: "https://www.hotstar.com/in/tv/doraemon/1260021004/list/episodes/t-1_2_2498"
          
     
     },
     {
-        imgs :"./img/ssr.jpg",
-        para : "Sushant Singh Rajput",
-         
+        imgs :"https://images-na.ssl-images-amazon.com/images/I/71bvqDtHF+L._RI_.jpg",
+        para : "Sinchan",
+         link:"https://www.hotstar.com/in/tv/shin-chan/1260020929/list/episodes/t-1_2_2496"
     
     }
 ,
 {
-    imgs :"./img/ema1.jpg",
-    para : "Ema Watson",
+    imgs :"https://images-na.ssl-images-amazon.com/images/I/8134XeLmkRL._RI_.jpg",
+    para : "Tom & Jerry",
+     link:"https://www.cartoonnetworkindia.com/show/tom-and-jerry/videos"
+
+},
+{
+    imgs :"https://raretoonsindia.com/wp-content/uploads/2020/10/Kiteretsu-All-Hindi-Dubbed-Episodes-Download-HD-990x743.png",
+    para : "Kitretsu",
+    link:"https://www.dailymotion.com/video/x7x8vj9"
      
 
 },
 {
-    imgs :"./img/shra.jpg",
-    para : "Shradhha Kapoor",
+    imgs :"https://m.media-amazon.com/images/M/MV5BNzg4MmE5NGUtMjVjZi00NjI4LWE3NjAtOGQzM2RkNDE1Y2JiXkEyXkFqcGdeQXVyMjI4NjA4OTg@._V1_.jpg",
+    para : "Bas Karo Henry",
+    link:"https://www.youtube.com/watch?v=KooQEJzPIpU"
      
 
 },
 {
-    imgs :"./img/tony.jpg",
-    para : "Robert Jr.",
-     
-
-},
-{
-    imgs :"./img/wonder-woman-1984.jpg",
-    para : "Gal Gadot",
+    imgs :"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13cfaae08d0bce72c683a185264bfbfa26be27a63b39cae993ec31151ad08ea7._RI_V_TTW_.jpg",
+    para : "Akbar & Birbal",
+    link:"https://www.youtube.com/watch?v=wIdphueJ9Nw"
      
 
 }
@@ -151,4 +222,4 @@ const actor= [
 ]
 
 export default arr
-export {music,actor}
+export {music,actor,Artist}

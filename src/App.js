@@ -2,7 +2,7 @@ import React from 'react';
 import './index.css';
 import Arr from './Array';
 import Div from './Div';
-import arr ,{music,actor}from './Array';
+import arr ,{music,actor,Artist}from './Array';
  function  print(val) {
    return (
 
@@ -23,10 +23,17 @@ function App() {
   <h2>Songs</h2>
   {music.map(print)
   }
-  <h2>Actors and Actress</h2>
+  <h2>Musical Artists</h2>
+  {Artist.map(print)}
+  
+  
+  <h2>Cartoons!</h2>
   {actor.map(print)}
+  
 </React.Fragment>
   );
+
+  
 }
 
 export default App;
