@@ -3,6 +3,8 @@
 
 ![Screenshot from 2021-04-23 21-00-09](https://user-images.githubusercontent.com/43616564/115899121-00211480-a47c-11eb-82d5-a9157bfd400b.png)
 
+![Screenshot from 2021-04-23 21-45-03](https://user-images.githubusercontent.com/43616564/115900178-488d0200-a47d-11eb-96af-09a82468c6a0.png)
+
 
 # Getting Started with Create React App
 
