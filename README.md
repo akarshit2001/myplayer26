@@ -1,3 +1,9 @@
+## Glimpse of Project
+![Screenshot from 2021-04-23 20-59-37](https://user-images.githubusercontent.com/43616564/115899164-0d3e0380-a47c-11eb-9808-4536d327c774.png)
+
+![Screenshot from 2021-04-23 21-00-09](https://user-images.githubusercontent.com/43616564/115899121-00211480-a47c-11eb-82d5-a9157bfd400b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Glimpse of Project
-![Screenshot from 2021-04-23 20-59-37](https://user-images.githubusercontent.com/43616564/115899164-0d3e0380-a47c-11eb-9808-4536d327c774.png)
-![Screenshot from 2021-04-23 21-00-09](https://user-images.githubusercontent.com/43616564/115899121-00211480-a47c-11eb-82d5-a9157bfd400b.png)
+
 
